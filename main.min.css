@@ -67,6 +67,37 @@ body {
 	text-align: center;
 }
 
+.chr-homepage-hero__heading {
+	margin-bottom: 24px;
+}
+
+.chr-headline-1 {
+	font-size: 3rem;
+	line-height: 3.5rem;
+	letter-spacing: -.5px;
+}
+
+.chr-headline-1 {
+	font-size: 2.25rem;
+	line-height: 2.5rem;
+	letter-spacing: -.25px;
+}
+
+.headline, .chr-headline-1, .chr-headline-2, .chr-headline-3, .chr-headline-4, .chr-headline-5, .chr-headline-6, .chr-fluid-1, .chr-fluid-2 {
+	color: #202125;
+	font-family: "Google Sans",Arial,sans-serif;
+	font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	margin: 0;
+}
+
+h1 {
+	font-size: 2em;
+	margin: 0.67em 0;
+}
+
 .chr-homepage-hero__download {
 	margin: 0 auto;
 	max-width: 420px;
