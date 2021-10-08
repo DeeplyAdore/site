@@ -12,6 +12,10 @@ body {
 	word-wrap: break-word;
 }
 
+article, aside, footer, header, nav, section {
+	display: block;
+}
+
 .chr-homepage-hero {
 	background: linear-gradient(15.69deg, #e8f0fe 10.16%, rgba(255,255,255,0) 89.84%);
 	min-height: calc(85vh - 64px);
