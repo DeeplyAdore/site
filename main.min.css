@@ -4,6 +4,19 @@ html {
 }
 
 body {
+	background-color: #fff;
+	font-family: "Google Sans",Arial,sans-serif;
+	margin: 0;
+	overflow-x: hidden;
+	padding: 0;
+}
+
+body {
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}
+
+body {
 	font-family: "Google Sans",Arial,sans-serif;
 }
 
