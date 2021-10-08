@@ -183,7 +183,7 @@ h1 {
 .chr-cta__button{-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:4px 46px 46px 4px;display:-webkit-box;display:-ms-flexbox;display:flex;height:46px;margin-bottom:1px;padding:0 0 0 12px;position:relative;vertical-align:middle;width:100%}
 .chr-cta__button{width:100%}
 .chr-cta__button{min-width:120px}
-.chr-cta__button{background-color: #fbbc04;color: #202125}
+.chr-cta__button{color: #202125}
 .chr-cta__button{border-radius:4px;-webkit-transition:background-color .3s, color .3s;transition:background-color .3s, color .3s}
 .chr-cta__button:active{background-color: #e9eaee}
 
