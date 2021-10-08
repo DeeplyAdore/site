@@ -136,7 +136,6 @@ h1 {
 .chr-cta__button{background-color: #fbbc04;color: #202125}
 .chr-cta__button{border-radius:4px;-webkit-transition:background-color .3s, color .3s;transition:background-color .3s, color .3s}
 .chr-cta__button:active{background-color: #e9eaee}
-.chr-cta__button:focus{outline:2px auto #1a73e8}
 
 .chr-cta__button--blue:hover, .chr-cta__button--blue:focus {
 	background-color: #1967d2;
