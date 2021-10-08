@@ -33,12 +33,6 @@ body {
 	transition: opacity .5s ease-in-out .15s;
 }
 
-.chr-main {
-	opacity: 0;
-	-webkit-transition: opacity .5s ease-in-out .15s;
-	transition: opacity .5s ease-in-out .15s;
-}
-
 article, aside, footer, header, nav, section {
 	display: block;
 }
