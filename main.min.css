@@ -37,20 +37,6 @@ body {
 	line-height: 1.5rem;
 }
 
-.chr-header-v3__drawer-backdrop {
-	-webkit-transition: opacity .15s cubic-bezier(0.4, 0, 0.2, 1);
-	transition: opacity .15s cubic-bezier(0.4, 0, 0.2, 1);
-	background: rgba(32,33,37,0.86);
-	bottom: 0;
-	left: 0;
-	opacity: 0;
-	position: fixed;
-	right: 0;
-	top: 0;
-	visibility: hidden;
-	z-index: 101;
-}
-
 .chr-main {
 	margin-top: 64px;
 	opacity: 1;
