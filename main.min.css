@@ -25,6 +25,18 @@ body {
 	word-wrap: break-word;
 }
 
+.chr-header-v3 {
+	left: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+	-webkit-transition: height .4s;
+	transition: height .4s;
+	z-index: 100;
+	font-size: 1rem;
+	line-height: 1.5rem;
+}
+
 .chr-main {
 	margin-top: 64px;
 	opacity: 1;
