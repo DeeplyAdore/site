@@ -1,8 +1,69 @@
 .chr-cta__button:focus{background-color: #f8f9fb}
 .chr-cta__button{-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:4px 46px 46px 4px;display:-webkit-box;display:-ms-flexbox;display:flex;height:46px;margin-bottom:1px;padding:0 0 0 12px;position:relative;vertical-align:middle;width:100%}
-.chr-cta__button{font-size:.75rem;line-height:1.25rem;width:100%}
+.chr-cta__button{width:100%}
 .chr-cta__button{min-width:120px}
 .chr-cta__button{background-color: #fbbc04;color: #202125}
 .chr-cta__button{border-radius:4px;-webkit-transition:background-color .3s, color .3s;transition:background-color .3s, color .3s}
 .chr-cta__button:active{background-color: #e9eaee}
 .chr-cta__button:focus{outline:2px auto #1a73e8}
+
+.chr-cta__button--blue:hover, .chr-cta__button--blue:focus {
+	background-color: #1967d2;
+}
+
+.chr-homepage-hero__download button {
+	margin-bottom: 8px;
+	padding: 12px 24px;
+}
+
+button, html [type="button"], [type="reset"], [type="submit"] {
+	-webkit-appearance: button;
+}
+
+.chr-cta__button--blue {
+	background-color: #1967d2;
+}
+
+.chr-cta__button {
+	font-size: 1rem;
+	line-height: 1.5rem;
+	color: #fff;
+	border: none;
+	border-radius: 32px;
+	cursor: pointer;
+	font-weight: 500;
+	height: 46px;
+	outline: none;
+	padding: 0 24px;
+	-webkit-transition: background-color, color .3s;
+	transition: background-color, color .3s;
+}
+
+button, input, optgroup, select, textarea {
+	font-family: inherit;
+}
+
+button {
+	background: none;
+	border: none;
+}
+
+button, select {
+	text-transform: none;
+}
+
+button {
+	overflow: visible;
+}
+
+button, input, optgroup, select, textarea {
+	font-family: sans-serif;
+	font-size: 100%;
+	line-height: 1.15;
+	margin: 0;
+}
+
+*, ::before, ::after {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
