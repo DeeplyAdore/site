@@ -39,6 +39,10 @@ body {
 	position: relative;
 }
 
+.chr-header-v3__logo {
+	height: 100%;
+}
+
 .chr-main {
 	margin-top: 64px;
 	opacity: 1;
