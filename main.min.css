@@ -1,8 +1,7 @@
-.chr-cta__button:focus{background-color: #f8f9fb}.dark-theme
-.chr-cta__button:hover,.dark-theme
+.chr-cta__button:focus{background-color: #f8f9fb}
 .chr-cta__button:{-webkit-box-align:center}
 .chr-cta__button{font-size:.75rem;line-height:1.25rem;width:100%}
 .chr-cta__button{min-width:120px}
-.chr-cta__button{background-color: #fbbc04;color: #202125}.dark-theme
+.chr-cta__button{background-color: #fbbc04;color: #202125}
 .chr-cta__button{border-radius:4px;-webkit-transition:background-color .3s, color .3s;transition:background-color .3s, color .3s}
-.chr-cta__button:active{background-color: #e9eaee}.dark-theme
+.chr-cta__button:active{background-color: #e9eaee}
