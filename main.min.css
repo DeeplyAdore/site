@@ -12,6 +12,20 @@ body {
 	word-wrap: break-word;
 }
 
+.chr-main {
+	margin-top: 64px;
+	opacity: 1;
+	overflow-x: hidden;
+	-webkit-transition: opacity .5s ease-in-out .15s;
+	transition: opacity .5s ease-in-out .15s;
+}
+
+.chr-main {
+	opacity: 0;
+	-webkit-transition: opacity .5s ease-in-out .15s;
+	transition: opacity .5s ease-in-out .15s;
+}
+
 article, aside, footer, header, nav, section {
 	display: block;
 }
