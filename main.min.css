@@ -1,3 +1,5 @@
 .chr-cta__button:focus{background-color: #f8f9fb}.dark-theme
 .chr-cta__button:hover,.dark-theme
 .chr-cta__button:{-webkit-box-align:center}
+.chr-cta__button{font-size:.75rem;line-height:1.25rem;width:100%}
+.chr-cta__button{min-width:120px}
