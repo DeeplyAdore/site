@@ -12,6 +12,16 @@ body {
 	word-wrap: break-word;
 }
 
+.chr-grid-default-parent {
+	padding: 0 38px;
+}
+
+.chr-grid-default-parent {
+	margin: auto;
+	max-width: 1440px;
+	padding: 0 28px;
+}
+
 .chr-homepage-hero__grid {
 	padding-top: 103px;
 }
