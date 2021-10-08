@@ -12,6 +12,28 @@ body {
 	word-wrap: break-word;
 }
 
+.chr-homepage-hero__grid {
+	padding-top: 103px;
+}
+
+.chr-homepage-hero__grid {
+	padding-top: 43px;
+}
+
+.chr-grid-default {
+	grid-column-gap: 40px;
+	-ms-grid-columns: (1fr)[12];
+	grid-template-columns: repeat(12, 1fr);
+}
+
+.chr-grid-default {
+	display: -ms-grid;
+	display: grid;
+	grid-column-gap: 28px;
+	-ms-grid-columns: (1fr)[4];
+	grid-template-columns: repeat(4, 1fr);
+}
+
 .chr-homepage-hero__text {
 	-ms-grid-column: 1;
 	-ms-grid-column-span: 12;
