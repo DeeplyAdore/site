@@ -1,3 +1,8 @@
+.chr-homepage-hero__download {
+	margin: 0 auto;
+	max-width: 420px;
+}
+
 .chr-cta__button:focus{background-color: #f8f9fb}
 .chr-cta__button{-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:4px 46px 46px 4px;display:-webkit-box;display:-ms-flexbox;display:flex;height:46px;margin-bottom:1px;padding:0 0 0 12px;position:relative;vertical-align:middle;width:100%}
 .chr-cta__button{width:100%}
