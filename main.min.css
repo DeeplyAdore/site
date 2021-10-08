@@ -165,8 +165,6 @@ button, html [type="button"], [type="reset"], [type="submit"] {
 	font-weight: 500;
 	height: 46px;
 	outline: none;
-	padding: 0 24px;
-	-webkit-transition: background-color, color .3s;
 	transition: background-color, color .3s;
 }
 
@@ -193,9 +191,6 @@ button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-mo
 }
 
 button, input, optgroup, select, textarea {
-	font-family: sans-serif;
-	font-size: 100%;
-	line-height: 1.15;
 	margin: 0;
 }
 
