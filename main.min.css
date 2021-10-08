@@ -155,6 +155,10 @@ button, html [type="button"], [type="reset"], [type="submit"] {
 	background-color: #1967d2;
 }
 
+.chr-cta__button--blue:active {
+ background-color: #185abc
+}
+
 .chr-cta__button {
 	font-size: 1rem;
 	line-height: 1.5rem;
