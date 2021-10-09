@@ -219,7 +219,7 @@ h1 {
 .chr-cta__button{border-radius:4px;-webkit-transition:background-color .3s, color .3s;transition:background-color .3s, color .3s}
 
 .chr-cta__button--blue:hover, .chr-cta__button--blue:focus {
-	background-color: #1967d2;
+	background-color: #3119d2;
 }
 
 .chr-homepage-hero__download button {
@@ -232,7 +232,7 @@ button, html [type="button"], [type="reset"], [type="submit"] {
 }
 
 .chr-cta__button--blue {
-	background-color: #4619d2;
+	background-color: #3119d2;
 }
 
 .chr-cta__button--blue:active {
