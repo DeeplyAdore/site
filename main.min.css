@@ -344,3 +344,11 @@ button, input, optgroup, select, textarea {
 	width: 100%;
 	z-index: 2;
 }
+
+.chr-homepage-hero__image img {
+	width: 100%;
+}
+
+img {
+	border-style: none;
+}
