@@ -305,6 +305,11 @@ button, input, optgroup, select, textarea {
 	text-align: center;
 }
 
+.chr-homepage-hero__simplified-links a {
+	border: none;
+	color: #4619d2;
+}
+
 .chr-copy--legal {
 	font-size: .625rem;
 	line-height: .875rem;
