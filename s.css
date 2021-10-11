@@ -5,7 +5,7 @@ html {
 
 body {
 	background-color: #fff;
-	font-family: "Google Sans",Arial,sans-serif;
+	font-family: Helvetica,Arial,sans-serif;
 	margin: 0;
 	overflow-x: hidden;
 	padding: 0;
@@ -15,7 +15,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 body {
-	font-family: "Google Sans",Arial,sans-serif;
+	font-family: Helvetica,Arial,sans-serif;
 }
 body {
 	word-break: break-word;
@@ -195,7 +195,7 @@ article, aside, footer, header, nav, section {
 
 .headline, .chr-headline-1, .chr-headline-2, .chr-headline-3, .chr-headline-4, .chr-headline-5, .chr-headline-6, .chr-fluid-1, .chr-fluid-2 {
 	color: #202125;
-	font-family: "Google Sans",Arial,sans-serif;
+	font-family: Helvetica,Arial,sans-serif;
 	font-weight: normal;
 }
 
@@ -300,7 +300,7 @@ button, input, optgroup, select, textarea {
 }
 
 .chr-homepage-hero__simplified-links {
-	font-family: "Google Sans",Arial,sans-serif;
+	font-family: Helvetica,Arial,sans-serif;
 	margin: 16px 0 0;
 	text-align: center;
 }
