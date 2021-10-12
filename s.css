@@ -352,3 +352,13 @@ button, input, optgroup, select, textarea {
 img {
 	border-style: none;
 }
+
+.chr-homepage-hero__logo {
+	margin-bottom: 8px;
+	width: 100%;
+}
+
+.chr-homepage-hero__logo img {
+	height: 80px;
+	width: 80px;
+}
