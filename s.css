@@ -316,6 +316,18 @@ button, input, optgroup, select, textarea {
 	letter-spacing: .2px;
 }
 
+.chr-homepage-hero__image {
+	-ms-grid-column: 1;
+	-ms-grid-column-span: 4;
+	grid-column: 1 / span 4;
+	-ms-grid-row: 2;
+	grid-row: 2;
+	margin-top: 44px;
+	position: relative;
+	width: 100%;
+	z-index: 2;
+}
+
 @media only screen and (min-width: 600px) {
  .chr-homepage-hero__image {
   -ms-grid-column:1;
@@ -331,18 +343,6 @@ button, input, optgroup, select, textarea {
   grid-column:3 / span 8;
   margin-bottom:16px
  }
-}
-
-.chr-homepage-hero__image {
-	-ms-grid-column: 1;
-	-ms-grid-column-span: 4;
-	grid-column: 1 / span 4;
-	-ms-grid-row: 2;
-	grid-row: 2;
-	margin-top: 44px;
-	position: relative;
-	width: 100%;
-	z-index: 2;
 }
 
 .chr-homepage-hero__image img {
