@@ -139,11 +139,18 @@ article, aside, footer, header, nav, section {
 }
 
 .chr-homepage-hero__grid {
-	padding-top: 103px;
+	padding-top: 43px;
 }
 
-.chr-homepage-hero__grid {
-	padding-top: 43px;
+@media only screen and (min-width: 600px) {
+ .chr-homepage-hero__grid {
+  padding-top:103px;
+ }
+}
+@media only screen and (min-width: 1024px) {
+ .chr-homepage-hero__grid {
+  padding-top:112.33px
+ }
 }
 
 .chr-grid-default {
