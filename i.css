@@ -128,11 +128,11 @@ article, aside, footer, header, nav, section {
 	position: relative;
 }
 
-.chr-grid-default-parent {
+.p {
 	padding: 0 38px;
 }
 
-.chr-grid-default-parent {
+.p {
 	margin: auto;
 	max-width: 1440px;
 	padding: 0 28px;
