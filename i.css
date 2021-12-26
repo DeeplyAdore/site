@@ -225,7 +225,7 @@ h1 {
 .j{min-width:120px}
 .j{border-radius:4px;-webkit-transition:background-color .3s, color .3s;transition:background-color .3s, color .3s}
 
-.chr-cta__button--blue:hover, .chr-cta__button--blue:focus {
+.k:hover, .k:focus {
 	background-color: #4a19d2;
 }
 
@@ -238,11 +238,11 @@ button, html [type="button"], [type="reset"], [type="submit"] {
 	-webkit-appearance: button;
 }
 
-.chr-cta__button--blue {
+.k {
 	background-color: #4a19d2;
 }
 
-.chr-cta__button--blue:active {
+.k:active {
  background-color: #4118bc
 }
 
