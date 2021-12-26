@@ -167,13 +167,13 @@ article, aside, footer, header, nav, section {
 	grid-template-columns: repeat(4, 1fr);
 }
 
-.chr-homepage-hero__text {
+.c {
 	-ms-grid-column: 1;
 	-ms-grid-column-span: 12;
 	grid-column: 1 / span 12;
 }
 
-.chr-homepage-hero__text {
+.c {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
