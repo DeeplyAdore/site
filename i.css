@@ -294,12 +294,12 @@ button, input, optgroup, select, textarea {
 	text-align: left;
 }
 
-.h.i .chr-homepage-hero__simplified .chr-copy--legal {
+.h.i .chr-homepage-hero__simplified .s {
 	font-size: .75rem;
 	line-height: 1.125rem;
 }
 
-.i.h .chr-copy--legal {
+.i.h .s {
 	font-size: .625rem;
 	line-height: .875rem;
 	color: #5f6368;
@@ -317,7 +317,7 @@ button, input, optgroup, select, textarea {
 	color: #4619d2;
 }
 
-.chr-copy--legal {
+.s {
 	font-size: .625rem;
 	line-height: .875rem;
 	letter-spacing: .2px;
