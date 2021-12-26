@@ -306,13 +306,13 @@ button, input, optgroup, select, textarea {
 	font-family: "Roboto",sans-serif;
 }
 
-.chr-homepage-hero__simplified-links {
+.p {
 	font-family: Helvetica,Arial,sans-serif;
 	margin: 16px 0 0;
 	text-align: center;
 }
 
-.chr-homepage-hero__simplified-links a {
+.p a {
 	border: none;
 	color: #4619d2;
 }
