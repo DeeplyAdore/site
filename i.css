@@ -324,7 +324,7 @@ button, input, optgroup, select, textarea {
 }
 
 @media only screen and (min-width: 600px) {
- .chr-homepage-hero__image {
+ .u {
   -ms-grid-column:1;
   -ms-grid-column-span:12;
   grid-column:1 / span 12
@@ -332,7 +332,7 @@ button, input, optgroup, select, textarea {
 }
 
 @media only screen and (min-width: 1024px) {
- .chr-homepage-hero__image {
+ .u {
   -ms-grid-column:3;
   -ms-grid-column-span:8;
   grid-column:3 / span 8;
@@ -340,7 +340,7 @@ button, input, optgroup, select, textarea {
  }
 }
 
-.chr-homepage-hero__image {
+.u {
 	-ms-grid-column: 1;
 	-ms-grid-column-span: 4;
 	grid-column: 1 / span 4;
@@ -352,7 +352,7 @@ button, input, optgroup, select, textarea {
 	z-index: 2;
 }
 
-.chr-homepage-hero__image img {
+.u img {
 	width: 100%;
 }
 
