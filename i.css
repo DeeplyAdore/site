@@ -194,13 +194,13 @@ article, aside, footer, header, nav, section {
 	margin-bottom: 24px;
 }
 
-.chr-headline-1 {
+.g {
 	font-size: 3rem;
 	line-height: 3.5rem;
 	letter-spacing: -.5px;
 }
 
-.headline, .chr-headline-1, .chr-headline-2, .chr-headline-3, .chr-headline-4, .chr-headline-5, .chr-headline-6, .chr-fluid-1, .chr-fluid-2 {
+.headline, .g, .chr-headline-2, .chr-headline-3, .chr-headline-4, .chr-headline-5, .chr-headline-6, .chr-fluid-1, .chr-fluid-2 {
 	color: #202125;
 	font-family: Helvetica,Arial,sans-serif;
 	font-weight: normal;
