@@ -18,7 +18,31 @@ article, aside, footer, header, nav, section{display: block;}
 @media only screen and (min-width: 600px){.a{padding-top:103px;}}
 @media only screen and (min-width: 1024px){.a{padding-top:112.33px}}
 .a{padding-top: 43px;}
-.b{grid-column-gap: 40px;-ms-grid-columns: (1fr)[12];grid-template-columns: repeat(12, 1fr);}.b{display: -ms-grid;display: grid;grid-column-gap: 28px;-ms-grid-columns: (1fr)[4];grid-template-columns: repeat(4, 1fr);}
+
+.b {
+ display:-ms-grid;
+ display:grid;
+ grid-column-gap:28px;
+ -ms-grid-columns:(1fr)[4];
+ grid-template-columns:repeat(4, 1fr)
+}
+@media only screen and (min-width: 600px) {
+ .b {
+  grid-column-gap:40px;
+  -ms-grid-columns:(1fr)[12];
+  grid-template-columns:repeat(12, 1fr)
+ }
+}
+@media only screen and (min-width: 1024px) {
+ .b {
+  grid-column-gap:49px
+ }
+}
+@media only screen and (min-width: 1440px) {
+ .b {
+  grid-column-gap:64px
+ }
+}
 
 @media only screen and (min-width: 1024px)and (-ms-high-contrast: active),only screen and (min-width: 1024px)and (-ms-high-contrast: none) {
  .b {
