@@ -16,12 +16,7 @@ body{word-break: break-word;word-wrap: break-word;}
 	display: -ms-flexbox;
 	display: flex;
 	height: 48px;
-    padding-top: 0px;
-    padding-right: 16px;
-    padding-bottom: 0px;
-    padding-left: 16px;
-	vertical-align: middle;
-	font-size: 1.375rem;line-height: 2rem;color: rgba(255,255,255,0.92);text-align: center;
+    padding-top: 0px;padding-right: 16px;padding-bottom: 0px;padding-left: 16px;vertical-align: middle;font-size: 1.375rem;line-height: 2rem;color: rgba(255,255,255,0.92);justify-content: center;
 }
 a{text-decoration: none;}
 a{background-color: transparent;-webkit-text-decoration-skip: objects;}
