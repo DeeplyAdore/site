@@ -6,17 +6,9 @@ body {
 	overflow-x: hidden;
 	padding: 0;
 }
-body {
-	-moz-osx-font-smoothing: grayscale;
-	-webkit-font-smoothing: antialiased;
-}
-body {
-	font-family: Helvetica,Arial,sans-serif;
-}
-body {
-	word-break: break-word;
-	word-wrap: break-word;
-}
+body{-moz-osx-font-smoothing: grayscale;-webkit-font-smoothing: antialiased;}
+body{font-family: Helvetica,Arial,sans-serif;}
+body{word-break: break-word;word-wrap: break-word;}
 .y {
 	left: 0;
 	position: fixed;
@@ -77,14 +69,8 @@ article, aside, footer, header, nav, section {
 	overflow: hidden;
 	position: relative;
 }
-.p {
-	padding: 0 38px;
-}
-.p {
-	margin: auto;
-	max-width: 1440px;
-	padding: 0 28px;
-}
+.p{padding: 0 38px;}
+.p{margin: auto;max-width: 1440px;padding: 0 28px;}
 @media only screen and (min-width: 600px) {
  .a {
   padding-top:103px;
