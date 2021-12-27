@@ -86,7 +86,7 @@ h1{font-size: 2em;margin: 0.67em 0;}
 .j{min-width:120px}
 .j{border-radius:4px;-webkit-transition:background-color .3s, color .3s;transition:background-color .3s, color .3s}
 .k:hover, .k:focus {
-	background-color: #4a19d2;
+	background-color: #0077ed;
 }
 .h button {
 	margin-bottom: 8px;
@@ -96,11 +96,9 @@ button, html [type="button"], [type="reset"], [type="submit"] {
 	-webkit-appearance: button;
 }
 .k {
-	background-color: #4a19d2;
+	background-color: #0071e3;
 }
-.k:active {
- background-color: #4118bc
-}
+.k:active{background-color: #006edb}
 .j {
 	font-size: 1rem;
 	line-height: 1.5rem;
