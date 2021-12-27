@@ -21,9 +21,7 @@ body{word-break: break-word;word-wrap: break-word;}
     padding-bottom: 0px;
     padding-left: 16px;
 	vertical-align: middle;
-	font-size: 1.375rem;
-	line-height: 2rem;
-	color: rgba(255,255,255,0.92);
+	font-size: 1.375rem;line-height: 2rem;color: rgba(255,255,255,0.92);text-align: center;
 }
 a{text-decoration: none;}
 a{background-color: transparent;-webkit-text-decoration-skip: objects;}
