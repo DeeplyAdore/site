@@ -8,25 +8,10 @@ body{word-break: break-word;word-wrap: break-word;}
 .aa{margin-left: 0;position: relative;}
 .ab{height: 100%;}
 .ac{border-radius: 4px;}
-.ac {
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	height: 48px;
-    padding-top: 0px;padding-right: 16px;padding-bottom: 0px;padding-left: 16px;vertical-align: middle;font-size: 1.375rem;line-height: 2rem;color: rgba(255,255,255,0.92);justify-content: center;
-}
+.ac{-webkit-box-align: center;-ms-flex-align: center;align-items: center;display: -webkit-box;display: -ms-flexbox;display: flex;height: 48px;padding-top: 0px;padding-right: 16px;padding-bottom: 0px;padding-left: 16px;vertical-align: middle;font-size: 1.375rem;line-height: 2rem;color: rgba(255,255,255,0.92);justify-content: center;}
 a{text-decoration: none;}
 a{background-color: transparent;-webkit-text-decoration-skip: objects;}
-.ad {
-	margin-top: 64px;
-	opacity: 1;
-	overflow-x: hidden;
-	-webkit-transition: opacity .5s ease-in-out .15s;
-	transition: opacity .5s ease-in-out .15s;
-}
+.ad{margin-top: 64px;opacity: 1;overflow-x: hidden;-webkit-transition: opacity .5s ease-in-out .15s;transition: opacity .5s ease-in-out .15s;}
 article, aside, footer, header, nav, section{display: block;}
 .ae {
 	background: linear-gradient(15.69deg, #eee8fe 10.16%, rgba(255,255,255,0) 89.84%);
@@ -124,13 +109,8 @@ button, select {
 button {
 	overflow: visible;
 }
-button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner {
-	border-style: none;
-	padding: 0;
-}
-button, input, optgroup, select, textarea {
-	margin: 0;
-}
+button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner{border-style: none;padding: 0;}
+button, input, optgroup, select, textarea{margin: 0;}
 *, ::before, ::after {
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
@@ -160,17 +140,7 @@ button, input, optgroup, select, textarea {
   margin-bottom:16px
  }
 }
-.u {
-	-ms-grid-column: 1;
-	-ms-grid-column-span: 4;
-	grid-column: 1 / span 4;
-	-ms-grid-row: 2;
-	grid-row: 2;
-	margin-top: 44px;
-	position: relative;
-	width: 100%;
-	z-index: 2;
-}
+.u{-ms-grid-column: 1;-ms-grid-column-span: 4;grid-column: 1 / span 4;-ms-grid-row: 2;grid-row: 2;margin-top: 44px;position: relative;width: 100%;z-index: 2;}
 .u img{width: 100%;}
 img{border-style: none;}
 .l{width: 100%;}
