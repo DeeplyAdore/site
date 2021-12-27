@@ -31,7 +31,7 @@ body {
 	font-size: 1rem;
 	line-height: 1.5rem;
 }
-.v .2 {
+.v, .2 {
 	-webkit-box-shadow: 0 2px 6px 0 rgba(32,33,37,0.1);
 	box-shadow: 0 2px 6px 0 rgba(32,33,37,0.1);
 }
@@ -150,7 +150,7 @@ article, aside, footer, header, nav, section {
 	letter-spacing: -.5px;
 }
 
-.headline, .g, .chr-headline-2, .chr-headline-3, .chr-headline-4, .chr-headline-5, .chr-headline-6, .chr-fluid-1, .chr-fluid-2 {
+.headline, .g {
 	color: #202125;
 	font-family: Helvetica,Arial,sans-serif;
 	font-weight: normal;
