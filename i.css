@@ -80,18 +80,9 @@ article, aside, footer, header, nav, section{display: block;}
 }
 .e{margin-bottom: 24px;}
 .g{font-size: 3rem;line-height: 3.5rem;letter-spacing: -.5px;}
-.g {
-	color: #202125;
-	font-family: Helvetica,Arial,sans-serif;
-	font-weight: normal;
-}
-h1, h2, h3, h4, h5, h6, p {
-	margin: 0;
-}
-h1 {
-	font-size: 2em;
-	margin: 0.67em 0;
-}
+.g{color: #202125;font-family: Helvetica,Arial,sans-serif;font-weight: normal;}
+h1, h2, h3, h4, h5, h6, p{margin: 0;}
+h1{font-size: 2em;margin: 0.67em 0;}
 .h {
 	margin: 0 auto;
 	max-width: 420px;
