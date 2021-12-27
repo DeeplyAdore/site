@@ -290,10 +290,6 @@ button, input, optgroup, select, textarea {
 	box-sizing: border-box;
 }
 
-.chr-homepage-hero__simplified {
-	text-align: left;
-}
-
 .h.i .chr-homepage-hero__simplified .s {
 	font-size: .75rem;
 	line-height: 1.125rem;
