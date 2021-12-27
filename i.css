@@ -1,7 +1,4 @@
-html {
-	line-height: 1.15;
-	-webkit-text-size-adjust: 100%;
-}
+html{line-height: 1.15;-webkit-text-size-adjust: 100%;}
 body {
 	background-color: #fff;
 	font-family: Helvetica,Arial,sans-serif;
@@ -122,7 +119,6 @@ article, aside, footer, header, nav, section {
 	-ms-grid-column-span: 12;
 	grid-column: 1 / span 12;
 }
-
 .c {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
@@ -139,63 +135,50 @@ article, aside, footer, header, nav, section {
 	grid-column: 1 / span 4;
 	text-align: center;
 }
-
 .e {
 	margin-bottom: 24px;
 }
-
 .g {
 	font-size: 3rem;
 	line-height: 3.5rem;
 	letter-spacing: -.5px;
 }
-
 .g {
 	color: #202125;
 	font-family: Helvetica,Arial,sans-serif;
 	font-weight: normal;
 }
-
 h1, h2, h3, h4, h5, h6, p {
 	margin: 0;
 }
-
 h1 {
 	font-size: 2em;
 	margin: 0.67em 0;
 }
-
 .h {
 	margin: 0 auto;
 	max-width: 420px;
 }
-
 .j{-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:4px 46px 46px 4px;display:-webkit-box;display:-ms-flexbox;display:flex;height:46px;margin-bottom:1px;padding:0 0 0 12px;position:relative;vertical-align:middle;width:100%}
 .j{width:100%}
 .j{min-width:120px}
 .j{border-radius:4px;-webkit-transition:background-color .3s, color .3s;transition:background-color .3s, color .3s}
-
 .k:hover, .k:focus {
 	background-color: #4a19d2;
 }
-
 .h button {
 	margin-bottom: 8px;
 	padding: 12px 24px;
 }
-
 button, html [type="button"], [type="reset"], [type="submit"] {
 	-webkit-appearance: button;
 }
-
 .k {
 	background-color: #4a19d2;
 }
-
 .k:active {
  background-color: #4118bc
 }
-
 .j {
 	font-size: 1rem;
 	line-height: 1.5rem;
@@ -208,67 +191,54 @@ button, html [type="button"], [type="reset"], [type="submit"] {
 	outline: none;
 	transition: background-color, color .3s;
 }
-
 button, input, optgroup, select, textarea {
 	font-family: inherit;
 }
-
 button {
 	background: none;
 	border: none;
 }
-
 button, select {
 	text-transform: none;
 }
-
 button {
 	overflow: visible;
 }
-
 button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner {
 	border-style: none;
 	padding: 0;
 }
-
 button, input, optgroup, select, textarea {
 	margin: 0;
 }
-
 *, ::before, ::after {
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 }
-
 .h.i .s {
 	font-size: .75rem;
 	line-height: 1.125rem;
 }
-
 .i.h .s {
 	font-size: .625rem;
 	line-height: .875rem;
 	color: #5f6368;
 	font-family: "Roboto",sans-serif;
 }
-
 .p {
 	font-family: Helvetica,Arial,sans-serif;
 	margin: 16px 0 0;
 	text-align: center;
 }
-
 .p a {
 	border: none;
 	color: #4619d2;
 }
-
 .s {
 	font-size: .625rem;
 	line-height: .875rem;
 	letter-spacing: .2px;
 }
-
 @media only screen and (min-width: 600px) {
  .u {
   -ms-grid-column:1;
@@ -276,7 +246,6 @@ button, input, optgroup, select, textarea {
   grid-column:1 / span 12
  }
 }
-
 @media only screen and (min-width: 1024px) {
  .u {
   -ms-grid-column:3;
@@ -285,7 +254,6 @@ button, input, optgroup, select, textarea {
   margin-bottom:16px
  }
 }
-
 .u {
 	-ms-grid-column: 1;
 	-ms-grid-column-span: 4;
@@ -297,20 +265,7 @@ button, input, optgroup, select, textarea {
 	width: 100%;
 	z-index: 2;
 }
-
-.u img {
-	width: 100%;
-}
-
-img {
-	border-style: none;
-}
-
-.l {
-	width: 100%;
-}
-
-.l img {
-	height: 80px;
-	width: 80px;
-}
+.u img{width: 100%;}
+img{border-style: none;}
+.l{width: 100%;}
+.l img{height: 80px;width: 80px;}
