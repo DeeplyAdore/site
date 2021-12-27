@@ -139,21 +139,11 @@ button, input, optgroup, select, textarea {
 	font-size: .75rem;
 	line-height: 1.125rem;
 }
-.i.h .s {
-	font-size: .625rem;
-	line-height: .875rem;
-	color: #5f6368;
-	font-family: "Roboto",sans-serif;
-}
-.p {
-	font-family: Helvetica,Arial,sans-serif;
-	margin: 16px 0 0;
-	text-align: center;
-}
+.i.h .s{font-size: .625rem;line-height: .875rem;color: #5f6368;font-family: "Roboto",sans-serif;}
+.p{font-family: Helvetica,Arial,sans-serif;margin-top: 16px;text-align: center;}
 .p a {
 	border: none;
-	color: #4619d2;
-}
+	color: #4619d2;}
 .s{font-size: .625rem;line-height: .875rem;letter-spacing: .2px;}
 @media only screen and (min-width: 600px) {
  .u {
