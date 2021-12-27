@@ -28,27 +28,17 @@ article, aside, footer, header, nav, section{display: block;}
 .g{color: #202125;font-family: Helvetica,Arial,sans-serif;font-weight: normal;}
 h1, h2, h3, h4, h5, h6, p{margin: 0;}
 h1{font-size: 2em;margin: 0.67em 0;}
-.h {
-	margin: 0 auto;
-	max-width: 420px;
-}
+.h{margin: 0 auto;max-width: 420px;}
 .j{-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:4px 46px 46px 4px;display:-webkit-box;display:-ms-flexbox;display:flex;height:46px;margin-bottom:1px;padding:0 0 0 12px;position:relative;vertical-align:middle;width:100%}
 .j{width:100%}
 .j{min-width:120px}
 .j{border-radius:4px;-webkit-transition:background-color .3s, color .3s;transition:background-color .3s, color .3s}
-.k:hover, .k:focus {
-	background-color: #0077ed;
-}
-.h button {
-	margin-bottom: 8px;
-	padding: 12px 24px;
-}
+.k:hover, .k:focus{background-color: #0077ed;}
+.h button{margin-bottom: 8px;padding: 12px 24px;}
 button, html [type="button"], [type="reset"], [type="submit"] {
 	-webkit-appearance: button;
 }
-.k {
-	background-color: #0071e3;
-}
+.k{background-color: #0071e3;}
 .k:active{background-color: #006edb}
 .j {
 	font-size: 1rem;
@@ -62,9 +52,7 @@ button, html [type="button"], [type="reset"], [type="submit"] {
 	outline: none;
 	transition: background-color, color .3s;
 }
-button, input, optgroup, select, textarea {
-	font-family: inherit;
-}
+button, input, optgroup, select, textarea{font-family: inherit;}
 button{background: none;border: none;}
 button, select{text-transform: none;}
 button{overflow: visible;}
