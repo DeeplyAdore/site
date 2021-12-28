@@ -17,7 +17,7 @@ a{background-color: transparent;-webkit-text-decoration-skip: objects;}
  transition:opacity .5s ease-in-out .15s
 }
 .w {
- margin-top:64px;
+ margin-top:48px;
  opacity:1;
  overflow-x:hidden;
  -webkit-transition:opacity .5s ease-in-out .15s;
