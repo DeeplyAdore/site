@@ -86,11 +86,9 @@ article, aside, footer, header, nav, section{display: block;}
 .c {
  -webkit-box-align:start;
  -ms-flex-align:start;
- align-items:flex-start;
  -webkit-box-pack:center;
  -ms-flex-pack:center;
- justify-content:center;
- text-align:left
+ justify-content:center
 }
 @media only screen and (min-width: 1024px) {
  .c {
