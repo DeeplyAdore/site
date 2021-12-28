@@ -166,8 +166,8 @@ button, input, optgroup, select, textarea{margin: 0;}
 }
 @media only screen and (min-width: 1024px){.u{-ms-grid-column:3;-ms-grid-column-span:8;grid-column:3 / span 8;margin-bottom:16px}}
 .u img{width:100%;}
-@media only screen and (min-width: 1024px){.u img{height:100%}}
 .u{display:block}
+
 img{border-style: none;}
 
 .l{margin-bottom:8px;width:100%}
