@@ -83,7 +83,7 @@ article, aside, footer, header, nav, section{display: block;}
  }
 }
 
-.ae .c {
+.c {
  -webkit-box-align:start;
  -ms-flex-align:start;
  align-items:flex-start;
@@ -93,21 +93,21 @@ article, aside, footer, header, nav, section{display: block;}
  text-align:left
 }
 @media only screen and (min-width: 1024px) {
- .ae .c {
+ .c {
   -ms-grid-column:1;
   -ms-grid-column-span:6;
   grid-column:1/span 6
  }
 }
 @media only screen and (min-width: 1440px) {
- .ae .c {
+ .c {
   -ms-grid-column:1;
   -ms-grid-column-span:5;
   grid-column:1/span 5
  }
 }
 @media screen and (-ms-high-contrast: active),(-ms-high-contrast: none) {
- .ae .c {
+ .c {
   margin-right:20px
  }
 }
