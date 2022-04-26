@@ -1,1 +1,0 @@
-/k FILEPATHHERE --HWMON 1 --tstart 56 --tstop 70 --cu-grid-size 2048 --cl-global-work 16384 -P stratum+tls12://13Q8mC8a5yMnd4NHunxme8mxkhDHPcqeAx.@asia-eth.2miners.com:12020
