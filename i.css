@@ -137,7 +137,7 @@ button, input, optgroup, select, textarea{margin: 0;}
 .h.i .s{font-size: .75rem;line-height: 1.125rem;}
 .i.h .s{font-size: .625rem;line-height: .875rem;color: #5f6368;font-family: "Roboto",sans-serif;}
 .p{font-family: Helvetica,Arial,sans-serif;margin-top: 16px;text-align: center;}
-.p a{border: none;color: #4619d2;}
+.p a{border: none;color: #1967d2;}
 .s{font-size: .625rem;line-height: .875rem;letter-spacing: .2px;}
 .u{-ms-grid-column: 1;-ms-grid-column-span: 4;grid-column: 1 / span 4;-ms-grid-row: 2;grid-row: 2;margin-top: 44px;position: relative;width: 100%;z-index: 2;}
 @media only screen and (min-width: 600px) {
