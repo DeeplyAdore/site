@@ -27,7 +27,7 @@ article, aside, footer, header, nav, section{display: block;}
 .p{margin:auto;max-width:1440px;padding:0 28px}@media only screen and (min-width: 600px){.p{padding:0 38px}}@media only screen and (min-width: 1024px){.p{padding:0 72px}}
 @media only screen and (min-width: 600px){.a{padding-top:103px;}}
 @media only screen and (min-width: 1024px){.a{padding-top:112.33px}}
-.a{padding-top: 43px;}
+.a{padding-top: 70px;}
 
 .b {
  display:-ms-grid;
