@@ -153,5 +153,5 @@ button, input, optgroup, select, textarea{margin: 0;}
 
 img{border-style: none;}
 
-.l{margin-bottom:8px;width:100%;}
+.l{width:100%;display:flex;align-items:center;gap:1rem;}
 .l img{height: 80px;width: 80px;}
