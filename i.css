@@ -9,7 +9,7 @@ body{word-break:break-word;word-wrap:break-word;}
 .x{height:100%;width:100%;display:flex;align-items:center;font-size:3rem;
 margin: 12px 0 12px 24px;}
 .ac{border-radius: 4px;}
-.ac{-webkit-box-align: center;-ms-flex-align: center;align-items: center;display: -webkit-box;display: -ms-flexbox;display: flex;padding-top: 0px;padding-bottom: 0px;vertical-align: middle;font-size: 1.2rem;line-height: 2rem;color: rgba(255,255,255,0.92);gap:0.4rem;justify-content: left;}
+.ac{-webkit-box-align: center;-ms-flex-align: center;align-items: center;display: -webkit-box;display: -ms-flexbox;display: flex;padding-top: 0px;padding-bottom: 0px;vertical-align: middle;font-size: 1.2375rem;line-height: 2rem;color: rgba(255,255,255,0.92);gap:0.4rem;justify-content: left;}
 a{text-decoration: none;}
 a{background-color: transparent;-webkit-text-decoration-skip: objects;}
 .w{opacity:0;-webkit-transition:opacity .5s ease-in-out .15s;transition:opacity .5s ease-in-out .15s}
