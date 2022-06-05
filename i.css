@@ -132,5 +132,5 @@ button, input, optgroup, select, textarea{margin: 0;}
 .u{display:block}
 img{border-style: none;}
 .l{width:100%;display:flex;justify-content:center;align-items:center;font-size:3rem;gap:1rem;}
-.l img{height: 80px;width: 80px;}
-.ad{height:32px;width:32px;}
+.l img{height: 70px;width: 70px;}
+.ad{height:28px;width:28px;}
